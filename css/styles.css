@@ -192,7 +192,7 @@ width: 264px;
     background-color:var(--font-text);
     height: 310px;
     padding-top: 100px;
-   padding-bottom: 100px;
+    padding-bottom: 100px;
 }
 .foot-clt{
     color: var(--ft-col);
@@ -215,22 +215,20 @@ img {
 
 
 .box{
-    width: 1128px;
+    width: 1158px;
     margin-top: 0px;
-    /* height: 48px; */
-    /* padding-right: 15px; */
     margin: 0 auto;
 }
 
 .box1{
-    width: 1128px;
+    width: 1158px;
     margin-top: 288px;
     /* margin: 0 auto; */
     margin-top: 72px;
 }
 
 .container{
-    width: 1128px;
+    width: 1158px;
     padding-right: 15px;
     padding-left: 15px;
     margin: 0 auto;
@@ -260,11 +258,12 @@ img {
     gap: 24px;
     justify-content: center;
 }
+
 .feature-sublist{
     display: flex;
     gap: 24px;
     justify-content: center;
-    padding-bottom: 72px;
+    margin-bottom: 72px;
 }
 
 
